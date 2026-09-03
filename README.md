@@ -5,10 +5,6 @@
 ### 🎓 Electronics & Telecommunication Engineering Student
 **KJCOEMR, SPPU | Pune, Maharashtra** • **CGPA: 9.09/10**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arati-dhore-341a08314)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADCodes1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aratidhore03@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919322526557)
 
 </div>
 
@@ -16,15 +12,15 @@
 
 ## 💡 About Me
 
-I'm a final-year **Electronics & Telecommunication Engineering** student with a strong passion for building real-world solutions through **Software Development**, **Embedded Systems**, **IoT**, and **Robotics**. 
+I'm a final-year **Electronics & Telecommunication Engineering** student with a strong passion for building real-world solutions through **Software Development**, **Embedded Systems**, **IoT**, an[...]
 
-My expertise lies in **hardware-software integration**, designing **microcontroller-based systems**, and developing **intelligent IoT solutions**. I love transforming complex engineering challenges into scalable, efficient prototypes.
+My expertise lies in **hardware-software integration**, designing **microcontroller-based systems**, and developing **intelligent IoT solutions**. I love transforming complex engineering challenge[...]
 
 ### 🎯 What I'm Working On
 - Building **smart wearable systems** for healthcare and safety
 - Designing **autonomous IoT solutions** for real-world problems
 - Developing **AI-driven emergency response systems**
-- Exploring **edge computing** and **firmware optimization**
+- Exploring **edge computing** and **firmware optimization`
 
 ---
 
@@ -136,12 +132,7 @@ My expertise lies in **hardware-software integration**, designing **microcontrol
 
 ## 🌐 Let's Connect
 
-I'm always interested in collaborating on **embedded systems projects**, **IoT solutions**, and **innovative hardware-software integrations**. Feel free to reach out!
-
-📧 **Email**: [aratidhore03@gmail.com](mailto:aratidhore03@gmail.com)  
-💼 **LinkedIn**: [@arati-dhore-341a08314](https://www.linkedin.com/in/arati-dhore-341a08314)  
-🐙 **GitHub**: [@ADCodes1](https://github.com/ADCodes1)  
-📞 **Phone**: [+91 9322526557](tel:+919322526557)  
+I'm always interested in collaborating on **embedded systems projects**, **IoT solutions**, and **innovative hardware-software integrations**. I'm open to collaborations and opportunities — please reach out via GitHub.
 
 ---
 
