@@ -1,71 +1,111 @@
-<!--- Modern, minimal README for ADCodes1 without personal contact info --->
+<!-- ========================= -->
+<!--      PROFILE HEADER       -->
+<!-- ========================= -->
 
 <div align="center">
 
-# Hey there! 👋 I'm Arati Sanju Dhore
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,20,24&text=ARATI%20SANJU%20DHORE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Electronics%20%26%20Telecommunication%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%26%20IoT&descAlignY=62&descSize=17"
+  width="100%"
+  alt="Arati Sanju Dhore profile header"
+/>
 
-**Electronics & Telecommunication Engineering • Embedded Systems & IoT**
+<br/>
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/ADCodes1/ADCodes1?style=for-the-badge)](https://github.com/ADCodes1/ADCodes1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADCodes1&layout=compact&theme=dark&bg_color=0a0f1e)](https://github.com/ADCodes1)
+<a href="https://github.com/ADCodes1">
+  <img src="https://img.shields.io/badge/GitHub-ADCodes1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/ADCodes1?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+
+<a href="https://github.com/ADCodes1/ADCodes1/issues">
+  <img src="https://img.shields.io/badge/Contact-Open%20an%20Issue-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Contact"/>
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=ADCodes1&label=PROFILE+VISITORS&color=06b6d4&style=for-the-badge"
+  alt="Profile visitors"
+/>
+
+<img
+  src="https://img.shields.io/github/followers/ADCodes1?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827"
+  alt="GitHub followers"
+/>
+
+<img
+  src="https://img.shields.io/github/stars/ADCodes1?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7c3aed"
+  alt="GitHub stars"
+/>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+embedded+systems+and+IoT+prototypes;Developing+low-power+firmware+and+wearables;Integrating+hardware+%26+software+for+real-world+use;Learning%2C+building%2C+and+iterating"
+    alt="Animated professional introduction"
+  />
+</a>
 
 </div>
 
 ---
 
-## About
-
-I’m a final-year Electronics & Telecommunication Engineering student passionate about building reliable hardware-software systems. I focus on embedded firmware, IoT architecture, sensor integration, and low-power designs.
-
-Short, focused contributions and prototypes for real-world problems — wearables, vehicle safety systems, and automation projects.
-
----
-
-## Tech & Tools
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-32A852?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-FF6F61?style=flat-square)
-
-Tools: Arduino IDE, VS Code, KiCad, MATLAB, Git
-
----
-
-## Featured Projects
-
-- AI-Based Smart Vehicle Safety & Health Monitoring System — ESP32, wearable sensors, GPS, cloud alerts.
-- Health & Safety Wristband — low-power wearable with biometric sensing and emergency alerts.
-- RFID-Based Automated Attendance System — microcontroller-driven identification and logging.
-
-(See the Projects section or repository folders for code and docs.)
-
----
-
-## GitHub Stats
+<!-- ========================= -->
+<!--       VISUAL SUMMARY      -->
+<!-- ========================= -->
 
 <div align="center">
 
-![ADCodes1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADCodes1&show_icons=true&theme=dark&bg_color=0a0f1e&text_color=94a3b8&title_color=38bdf8&icon_color=38bdf8)
+## 📊 Quick UI Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ADCodes1&show_icons=true&theme=dark&bg_color=0a0f1e&text_color=94a3b8&title_color=38bdf8&icon_color=38bdf8" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADCodes1&theme=dark&hide_border=true&stroke=22d3ee&ring=8b5cf6&fire=f59e0b" alt="GitHub streak"/>
+
+<br/>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADCodes1&layout=compact&theme=dark&langs_count=8" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## Connect
+<!-- ========================= -->
+<!--      TECHNOLOGY UI        -->
+<!-- ========================= -->
 
-For collaboration or questions, please open an issue on this repository or visit my GitHub profile:
+<div align="center">
 
-- GitHub: [ADCodes1](https://github.com/ADCodes1)
+## 🧩 Technology Snapshot
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,esp32,javascript,react&perline=7" alt="Main technology stack"/>
+</p>
+
+</div>
 
 ---
 
-## Contributing
+<!-- ========================= -->
+<!--       CALL TO ACTION      -->
+<!-- ========================= -->
 
-Contributions, suggestions, and improvements are welcome. Feel free to open issues or PRs.
+<div align="center">
 
----
+## 🤝 Collaborate & Explore
 
-<p align="center">Built with ❤️ for embedded systems, IoT and real-world prototypes.</p>
+<a href="https://github.com/ADCodes1">
+  <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
+
+<a href="https://github.com/ADCodes1/ADCodes1/issues">
+  <img src="https://img.shields.io/badge/Open_an_Issue-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open an issue"/>
+</a>
+
+</div>
+
+<p align="center">Built with a clean UI inspired by a modern hero-style profile.</p>
