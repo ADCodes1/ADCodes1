@@ -1,161 +1,71 @@
-# Hey there! 👋 I'm **Arati Sanju Dhore**
+<!--- Modern, minimal README for ADCodes1 without personal contact info --->
 
 <div align="center">
-  
-### 🎓 Electronics & Telecommunication Engineering Student
-**KJCOEMR, SPPU | Pune, Maharashtra** • **CGPA: 9.09/10**
 
+# Hey there! 👋 I'm Arati Sanju Dhore
+
+**Electronics & Telecommunication Engineering • Embedded Systems & IoT**
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/ADCodes1/ADCodes1?style=for-the-badge)](https://github.com/ADCodes1/ADCodes1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADCodes1&layout=compact&theme=dark&bg_color=0a0f1e)](https://github.com/ADCodes1)
 
 </div>
 
 ---
 
-## 💡 About Me
+## About
 
-I'm a final-year **Electronics & Telecommunication Engineering** student with a strong passion for building real-world solutions through **Software Development**, **Embedded Systems**, **IoT**, an[...]
+I’m a final-year Electronics & Telecommunication Engineering student passionate about building reliable hardware-software systems. I focus on embedded firmware, IoT architecture, sensor integration, and low-power designs.
 
-My expertise lies in **hardware-software integration**, designing **microcontroller-based systems**, and developing **intelligent IoT solutions**. I love transforming complex engineering challenge[...]
-
-### 🎯 What I'm Working On
-- Building **smart wearable systems** for healthcare and safety
-- Designing **autonomous IoT solutions** for real-world problems
-- Developing **AI-driven emergency response systems**
-- Exploring **edge computing** and **firmware optimization`
+Short, focused contributions and prototypes for real-world problems — wearables, vehicle safety systems, and automation projects.
 
 ---
 
-## 🛠️ Technical Skills
+## Tech & Tools
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-32A852?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-FF6F61?style=flat-square)
 
-### 🔌 Embedded & IoT
-- **Microcontrollers**: Arduino, ESP32, ARM Cortex-M
-- **Protocols**: MQTT, HTTP/HTTPS, Serial Communication
-- **Sensors**: Biometric, GPS, Temperature, Humidity, Accelerometer
-- **Tools**: Arduino IDE, VS Code, KiCad, MATLAB
-
-### ⚙️ Core Engineering Domains
-- **Embedded Systems Development** | **IoT Architecture** | **Firmware Development**
-- **Robotics Systems** | **Hardware Prototyping** | **Sensor Interfacing**
-- **Digital Electronics** | **Microcontroller Applications**
-
-### 🎨 Frontend & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🤝 Soft Skills
-✅ Teamwork & Collaboration | ✅ Problem Solving | ✅ Communication | ✅ Adaptability
+Tools: Arduino IDE, VS Code, KiCad, MATLAB, Git
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI-Based Smart Vehicle Safety & Health Monitoring System
-**Emergency Detection & Smart Hospital Recommendation**
-- **Tech Stack**: ESP32, Wearable Sensors, GPS Module, AI, Cloud/Mobile Tech
-- Real-time vehicle & driver health parameter monitoring
-- Collision impact detection with automated SOS response
-- AI-driven nearest medical facility recommendation
-- Instant alert broadcasting via cloud and mobile platforms
+- AI-Based Smart Vehicle Safety & Health Monitoring System — ESP32, wearable sensors, GPS, cloud alerts.
+- Health & Safety Wristband — low-power wearable with biometric sensing and emergency alerts.
+- RFID-Based Automated Attendance System — microcontroller-driven identification and logging.
 
-### ❤️ Health and Safety Wrist Band for Women
-**Wearable Emergency System with Biometric Tracking**
-- **Tech Stack**: Microcontrollers, Biometric Sensors, GPS, IoT, C/C++
-- Real-time health parameter tracking (heart rate, blood pressure, etc.)
-- Instant trigger-based emergency alerts with precise live GPS coordinates
-- Low-power firmware designed for wearable devices
-- Quick-response crisis scenarios with hardware reliability
-
-### 🔐 RFID-Based Automated Attendance System
-**Microcontroller User Identification & Verification**
-- **Tech Stack**: Arduino, RFID Modules, Embedded C, Arduino IDE, VS Code
-- Automated user identification and logging system
-- High-reliability RFID card reader integration
-- Dedicated firmware for sensor communication and data parsing
-- Eliminated manual attendance errors with structured logging
+(See the Projects section or repository folders for code and docs.)
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 IoT & Robotics Intern | **PHN Technology Pvt Ltd**
-**Status**: Paid 3-Month Internship
-- Applied hands-on engineering principles to build and test smart automation systems
-- Assisted in microcontroller circuit design and sensor interfacing
-- Hardware debugging and real-time sensor data collection
-- Built and troubleshooted robotics prototypes
-
-### 💻 Java Full Stack Trainee | **PHN Technology Pvt Ltd**
-**Status**: Trainee Program
-- Gained technical foundation in front-end web technologies
-- Relational database integration using Java stack
-- Full-stack development with modern frameworks
-
-### 🌱 Green Skills & AI Trainee | **Sustainable Tech & AI Initiative**
-**Status**: Trainee Program
-- Explored core Artificial Intelligence algorithms
-- Sustainable technology practices and deployment frameworks
-- Real-world AI applications and implementation
-
----
-
-## 🎓 Education
-
-### Bachelor of Engineering (B.E.)
-**Electronics & Telecommunication Engineering**
-- **Institution**: KJCOEMR (K.J. Somaiya College of Engineering), SPPU
-- **CGPA**: 9.09/10
-- **Currently**: Final-year student
-- **Focus Areas**: Embedded Systems, IoT, Robotics, Signal Processing
-
----
-
-## 📊 GitHub Statistics
+## GitHub Stats
 
 <div align="center">
-  
+
 ![ADCodes1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADCodes1&show_icons=true&theme=dark&bg_color=0a0f1e&text_color=94a3b8&title_color=38bdf8&icon_color=38bdf8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADCodes1&layout=compact&theme=dark&bg_color=0a0f1e&text_color=94a3b8&title_color=38bdf8)
-
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## Connect
 
-I'm always interested in collaborating on **embedded systems projects**, **IoT solutions**, and **innovative hardware-software integrations**. I'm open to collaborations and opportunities — please reach out via GitHub.
+For collaboration or questions, please open an issue on this repository or visit my GitHub profile:
 
----
-
-## 📋 My Journey
-
-<div align="center">
-
-| 🎯 Area | 📌 Focus |
-|---------|---------|
-| **Hardware** | Microcontrollers, Sensors, PCB Design |
-| **Software** | Embedded C/C++, Python, IoT Frameworks |
-| **Integration** | Hardware-Software Co-design, System Architecture |
-| **Innovation** | AI-driven Safety Systems, Wearable Tech, Smart Mobility |
-
-</div>
+- GitHub: [ADCodes1](https://github.com/ADCodes1)
 
 ---
 
-<div align="center">
+## Contributing
 
-### 🎨 *"Engineering the future, one circuit at a time"* 🚀
+Contributions, suggestions, and improvements are welcome. Feel free to open issues or PRs.
 
-**Built with ❤️ using React, Tailwind CSS & modern web technologies**  
-*Passionate about transforming ideas into reality through embedded systems and IoT.*
+---
 
-</div>
+<p align="center">Built with ❤️ for embedded systems, IoT and real-world prototypes.</p>
